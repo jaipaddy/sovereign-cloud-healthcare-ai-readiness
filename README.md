@@ -1,6 +1,6 @@
 # Sovereign / Government Cloud Readiness Checklist for Healthcare AI
 
-> **Last reviewed:** 2026-05-08. Service availability and regulatory status change frequently — re-verify primary sources (linked at the end) before any commitment.
+> Service availability and regulatory status change frequently. Re-verify primary sources (linked at the end) before any commitment.
 
 **For**: Healthcare tech practitioners (platform, security, ML/AI, SRE) deploying AI-enabled workflows in **AWS GovCloud**, **Azure Government**, or **GCP Assured Workloads** — collectively the *government / sovereign cloud regions* in the US.
 
