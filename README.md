@@ -193,7 +193,7 @@ Required only if at least one is true:
 - **Why**:
   - **Section 1557 final rule** (effective Jul 5, 2024) — its **AI / Patient Care Decision Support Tools (PCDSTs) provision** has a delayed compliance date of **May 1, 2025**. Covered entities must make reasonable efforts to identify PCDSTs that use input variables accounting for race, color, national origin, sex, age, or disability — and mitigate discrimination risk.
   - **Partial non-enforcement (May 13, 2025)**: HHS announced it will not enforce portions of § 92.210(b)–(c) tied to **gender identity / pregnancy / abortion** sex-discrimination claims while litigation proceeds. **The race, color, national origin, age, and disability components remain enforceable** — and those are exactly what most healthcare-AI bias work targets. Do not read the notice as a free pass on PCDST obligations.
-  - **HHS OCR HIPAA Security Rule NPRM** (proposed Dec 27, 2024; published in Federal Register Jan 6, 2025) — **still proposed; not yet finalized as of 2026-05-08**. Finalization remains on OCR's regulatory agenda for May 2026 but has not published. It treats AI tools as in-scope of risk analysis and asset inventory. Treat as directional, not yet binding, but design as if it will be.
+  - **HHS OCR HIPAA Security Rule NPRM** (proposed Dec 27, 2024; published in Federal Register Jan 6, 2025) — **still proposed; not yet finalized as of 2026-05-12**. Finalization remains on OCR's regulatory agenda for May 2026 but has not published. It treats AI tools as in-scope of risk analysis and asset inventory. Treat as directional, not yet binding, but design as if it will be.
 - **Verify**: Risk analysis lists every AI tool that creates/receives/maintains/transmits ePHI. Bias testing artifacts exist for any clinical-decision-supporting model. PCDST inventory is current.
 - **Ready looks like**: Documented risk analysis + bias testing tied to specific model versions; PCDST inventory dated within 6 months.
 
@@ -364,13 +364,13 @@ Required only if at least one is true:
 
 ---
 
-## Regulatory Status (as of 2026-05-04)
+## Regulatory Status (as of 2026-05-12)
 
 Tag every regulation with current status before citing it in customer or auditor conversations. This list ages — re-verify before commitments.
 
 | Item | Status | Key dates |
 |---|---|---|
-| **HIPAA Security Rule overhaul** | **Proposed** (NPRM) — not yet finalized | Published Federal Register Jan 6, 2025. Comments closed Mar 7, 2025. Finalization remains on OCR's regulatory agenda for May 2026 but has not yet published as of 2026-05-08. |
+| **HIPAA Security Rule overhaul** | **Proposed** (NPRM) — not yet finalized | Published Federal Register Jan 6, 2025. Comments closed Mar 7, 2025. Finalization remains on OCR's regulatory agenda for May 2026 but has not yet published as of 2026-05-12. |
 | **Section 1557 final rule** | **Final** (with partial non-enforcement) | Effective Jul 5, 2024. AI / PCDST provision compliance: **May 1, 2025**. **HHS issued partial non-enforcement on May 13, 2025** for § 92.210(b)–(c) gender-identity / pregnancy / abortion claims; race / color / national origin / age / disability components remain enforceable. |
 | **NIST AI RMF 1.0** | **Published** (voluntary) | Released Jan 2023. Generative AI Profile (NIST AI 600-1) Jul 2024. |
 | **ISO/IEC 42001:2023** | **Published** (voluntary cert.) | Released Dec 2023. |
